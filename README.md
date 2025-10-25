@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Iman Ahmadi 👋</h1>
 <h3 align="center">Full-Stack .NET Developer | AI Integrator | System & Device-Oriented Engineer</h3>
+[![Followers](https://img.shields.io/github/followers/DevimanAI?label=Followers&style=social)](https://github.com/DevimanAI?tab=followers)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deviman.ai)
 
 ---
 
@@ -48,7 +51,7 @@ POS systems • RFID readers • IP cameras • Biometric scanners • Windows S
 ### 🚀 Highlighted Projects
 
 #### 🧩 **Gate Access Manager**
-Smart vehicle access system with sequential barrier logic, **RFID/POS integration**, and **complex rule-based filtering**.  
+Smart vehicle access system with sequential barrier logic, **complex rule-based filtering**.  
 🧠 *Built using C#, WPF, SQL Server, EF, and Fluent UI.*
 
 #### 🧠 **SpeedCam Dispatcher (VSD Package)**
@@ -90,6 +93,6 @@ Custom-trained **ML.NET** model capable of classifying over 140 vehicle types us
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://deviman.ir"><img src="https://img.shields.io/badge/Website-deviman.ir-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:deviman.ai@gmail.com"><img src="https://img.shields.io/badge/Email-deviman.ai@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:deviman.ai@gmail.com"><img src="https://img.shields.io/badge/Email-deviman.ai@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/devimanai"><img src="https://img.shields.io/badge/LinkedIn-Iman_Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
