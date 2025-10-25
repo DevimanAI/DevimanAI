@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Iman Ahmadi 👋</h1>
-<h3 align="center">Full-Stack .NET Developer | AI Integrator | System & Device-Oriented Engineer</h3>
+<div align="center">
+
+## Hi, I'm Iman 👋  
+AI Developer | Senior .NET Developer | C# | WPF | ASP.NET | EF | ORM  
 
 [![Followers](https://img.shields.io/github/followers/DevimanAI?label=Followers&style=social)](https://github.com/DevimanAI?tab=followers)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deviman.ai)
+
+</div>
 
 ---
 
