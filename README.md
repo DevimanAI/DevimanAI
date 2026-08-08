@@ -16,7 +16,7 @@ AI Developer | Senior .NET Developer | C# | WPF | ASP.NET | EF | ORM
 I'm a full-stack software developer with a strong background in **desktop and hybrid applications**, **low-level system integration**, and **modern web technologies**.  
 I specialize in **WPF**, **WinForms**, and backend logic, and recently extended my stack to **ASP.NET Core** and **Razor Pages** by designing, building, and deploying my own responsive portfolio site from scratch.
 
-My experience ranges from building software for **POS systems, RFID readers, biometric scanners, and camera-based enforcement tools** — to designing **REST-integrated services**, **installer automation**, **watchdog services**, and **custom communication layers**.
+My experience ranges from building software for **POS systems, RFID readers, biometric scanners, and camera-based enforcement tools**  to designing **REST-integrated services**, **installer automation**, **watchdog services**, and **custom communication layers**.
 
 I enjoy bridging the gap between **hardware-level complexity** and **smooth, user-friendly design**, and I’m currently exploring **Blazor** and **MAUI** to bring my WPF experience into the cross-platform world.
 
