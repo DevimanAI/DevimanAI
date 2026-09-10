@@ -14,14 +14,9 @@
 
 ## 🧠 About Me
 
-I'm a full-stack **.NET developer and AI programmer** with 5+ years of experience building scalable software for real-time image processing, cross-platform mobile apps, and hardware device integrations.
+I'm a full-stack **.NET developer and computer vision engineer** with 5+ years of experience building scalable software for real-time image processing, cross-platform mobile apps, and hardware device integrations.
 
-I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level hardware complexity (cameras, RFID, biometric scanners, POS terminals) with clean architecture and production-ready delivery. My work spans everything from computer-vision pipelines running on CPU-only field hardware to multilingual, multi-tenant mobile apps shipped on Google Play.
-
-- 🔭 Currently building **Ayar+**, a multilingual MAUI app for jewelry businesses, and **Matcha**, a Flutter/ASP.NET Core social meetup startup
-- 🧩 Migrating a production license-plate recognition pipeline from YOLOv4 to a modern YOLO architecture
-- 🌱 Exploring Blazor and cross-platform patterns beyond WPF
-- 💬 Ask me about device integrations, real-time CV on constrained hardware, or MAUI release pipelines
+I specialize in **WPF, .NET MAUI, and ASP.NET Core**, bridging low-level hardware complexity (cameras, RFID, biometric scanners, POS terminals) with clean architecture and production-ready delivery. My most recent work is migrating a production Iranian license-plate recognition pipeline from YOLOv4 to **YOLO26**, using OpenVINO and ONNX to keep inference fast on CPU-only field hardware. Alongside that I'm building Ayar+, a multilingual MAUI app for jewelry businesses, and Matcha, a Flutter and ASP.NET Core social meetup app.
 
 <br/>
 
@@ -34,7 +29,6 @@ I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-512BD4?style=for-the-badge&logo=xaml&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -45,6 +39,7 @@ I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-00c7fd?style=for-the-badge&logo=intel&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
@@ -57,6 +52,7 @@ I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Fluent UI](https://img.shields.io/badge/Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7F00?style=for-the-badge&logo=devexpress&logoColor=white)
@@ -65,9 +61,12 @@ I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level
 **Data & Backend**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Ably](https://img.shields.io/badge/Ably-FF5416?style=for-the-badge&logo=ably&logoColor=white)
 
 **Tools & DevOps**
@@ -76,11 +75,12 @@ I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 **Devices & Systems**
 
-`POS systems` · `RFID readers` · `IP cameras` · `Biometric scanners` · `Civil ID readers` · `Windows Services` · `Watchdog automation`
+`POS systems` · `RFID readers` · `IP cameras` · `Biometric scanners` · `Civil ID readers` · `Windows Services` · `Watchdog automation` · `Android` · `iOS`
 
 <br/>
 
