@@ -1,103 +1,178 @@
 <div align="center">
 
-## Hi, I'm Iman 👋  
-AI Developer | Senior .NET Developer | C# | WPF | ASP.NET | EF | ORM  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:5C2D91&height=200&section=header&text=Hi,%20I'm%20Iman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20AI%20Programmer&descAlignY=55&descSize=20" width="100%"/>
 
-[![Followers](https://img.shields.io/github/followers/DevimanAI?label=Followers&style=social)](https://github.com/DevimanAI?tab=followers)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deviman.ai)
+<a href="https://deviman.info"><img src="https://img.shields.io/badge/Portfolio-deviman.info-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devimanai"><img src="https://img.shields.io/badge/LinkedIn-Iman_Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/deviman.ai"><img src="https://img.shields.io/badge/Instagram-deviman.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:deviman.ai@outlook.com"><img src="https://img.shields.io/badge/Email-deviman.ai@outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="https://github.com/DevimanAI?tab=followers"><img src="https://img.shields.io/github/followers/DevimanAI?label=Followers&style=for-the-badge&color=181717"/></a>
 
 </div>
 
----
+<br/>
 
-### 🧠 About Me
+## 🧠 About Me
 
-I'm a full-stack software developer with a strong background in **desktop and hybrid applications**, **low-level system integration**, and **modern web technologies**.  
-I specialize in **WPF**, **WinForms**, and backend logic, and recently extended my stack to **ASP.NET Core** and **Razor Pages** by designing, building, and deploying my own responsive portfolio site from scratch.
+I'm a full-stack **.NET developer and AI programmer** with 5+ years of experience building scalable software for real-time image processing, cross-platform mobile apps, and hardware device integrations.
 
-My experience ranges from building software for **POS systems, RFID readers, biometric scanners, and camera-based enforcement tools**  to designing **REST-integrated services**, **installer automation**, **watchdog services**, and **custom communication layers**.
+I specialize in **WPF, .NET MAUI, ASP.NET Core, and Blazor**, bridging low-level hardware complexity (cameras, RFID, biometric scanners, POS terminals) with clean architecture and production-ready delivery. My work spans everything from computer-vision pipelines running on CPU-only field hardware to multilingual, multi-tenant mobile apps shipped on Google Play.
 
-I enjoy bridging the gap between **hardware-level complexity** and **smooth, user-friendly design**, and I’m currently exploring **Blazor** and **MAUI** to bring my WPF experience into the cross-platform world.
+- 🔭 Currently building **Ayar+**, a multilingual MAUI app for jewelry businesses, and **Matcha**, a Flutter/ASP.NET Core social meetup startup
+- 🧩 Migrating a production license-plate recognition pipeline from YOLOv4 to a modern YOLO architecture
+- 🌱 Exploring Blazor and cross-platform patterns beyond WPF
+- 💬 Ask me about device integrations, real-time CV on constrained hardware, or MAUI release pipelines
 
----
+<br/>
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-#### 💼 Languages & Frameworks
+**Languages & Frameworks**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-512BD4?style=for-the-badge&logo=xaml&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### 🧩 UI/UX
-![Fluent UI](https://img.shields.io/badge/Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+**AI / Computer Vision**
+
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-00c7fd?style=for-the-badge&logo=intel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA%2FcuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Web & UI**
+
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Fluent UI](https://img.shields.io/badge/Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7F00?style=for-the-badge&logo=devexpress&logoColor=white)
+![SkiaSharp](https://img.shields.io/badge/SkiaSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### 🧠 Tools & Databases
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Data & Backend**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge&logo=fastapi&logoColor=white)
+![Ably](https://img.shields.io/badge/Ably-FF5416?style=for-the-badge&logo=ably&logoColor=white)
 
-#### 🔧 Devices & Systems
-POS systems • RFID readers • IP cameras • Biometric scanners • Windows Services • Watchdog Automation
+**Tools & DevOps**
 
----
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
-### 🚀 Highlighted Projects
+**Devices & Systems**
 
-#### 🧩 **Gate Access Manager**
-Smart vehicle access system with sequential barrier logic, **complex rule-based filtering**.  
-🧠 *Built using C#, WPF, SQL Server, EF, and Fluent UI.*
+`POS systems` · `RFID readers` · `IP cameras` · `Biometric scanners` · `Civil ID readers` · `Windows Services` · `Watchdog automation`
 
-#### 🧠 **SpeedCam Dispatcher (VSD Package)**
-A modular AI-driven traffic system with **YOLOv4**, **OpenVINO**, and **C++ integration**, used for real-time image processing across city-wide camera networks.
+<br/>
 
-#### 🌐 **Deviman Portfolio Website**
-My personal **ASP.NET Core Razor Pages** portfolio — featuring responsive design, dynamic project rendering, and full SQL Server backend integration.
+## 🚀 Highlighted Projects
 
-#### 🚓 **Mobile Traffic Enforcer**
-Offline-capable **WinForms** tool for patrol vehicles with **SQLite caching** and **data synchronization** for mobile violation reporting.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 🧮 **Vehicle & OCR Modules**
-Lightweight image-processing libraries for **vehicle detection** and **license plate OCR**, optimized for CPU-only performance and embedded integration.
+### 💍 Ayar+ | عيار بلاس
+Production cross-platform **.NET MAUI** client for gold & jewelry businesses — invoicing, inventory, receipts, and multi-workspace operations across the Middle East and South Asia. 6 UI languages with full RTL support, live gold-rate calculations, Civil ID reader integration, and realtime events via Ably. Shipped on Google Play with iOS/Mac/Windows builds from one codebase.
 
-#### 🚘 **Vehicle Classifier Engine**
-Custom-trained **ML.NET** model capable of classifying over 140 vehicle types using a semi-supervised feedback dataset pipeline.
+`.NET MAUI` `MVVM` `SkiaSharp` `Ably` `GitHub Actions`
 
----
+[Google Play](https://play.google.com/store/apps/details?id=shop.ayarplus) · [Website](https://ayarplus.com)
 
-### 🎯 What I Offer
-- Full-Stack Web Development (ASP.NET Core & Razor Pages)  
-- Modern Desktop & Hybrid App Development (WPF, MAUI, WinForms)  
-- Device Integration (POS, RFID, Cameras, Fingerprint Scanners)  
-- Deployment Automation & Watchdog Service Design  
-- Legacy System Refactoring & Documentation for Production  
+</td>
+<td width="50%" valign="top">
 
----
+### 🚧 Gate Access Manager
+Secure vehicle access system handling one-by-one gate passages with sequential barrier control, complex rule-based filtering, and a normalized SQL Server schema for high-configurability, device-backed access logic.
 
-### 🧩 Stats & Activity
+`C#` `WPF` `SQL Server` `EF` `Fluent UI`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevimanAI&show_icons=true&theme=tokyonight" alt="Iman Ahmadi Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevimanAI&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[Download Documentation](https://deviman.info/Files/TivaGate-Document.pdf)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://deviman.ir"><img src="https://img.shields.io/badge/Website-deviman.ir-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:deviman.ai@gmail.com"><img src="https://img.shields.io/badge/Email-deviman.ai@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/devimanai"><img src="https://img.shields.io/badge/LinkedIn-Iman_Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### 📡 SpeedCam Dispatcher (VSD Package)
+Modular, real-time image processing system for city-wide speed cameras over an offline network. Darknet-based YOLOv4 embedded in **C++** with OpenVINO inference optimization — hit 10 FPS on a 7th-gen Core i5 with zero GPU.
+
+`C#` `C++` `YOLOv4` `OpenVINO` `Windows Service`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚓 Mobile Traffic Enforcer
+Offline-capable **WinForms** tool for patrol vehicles with dual-camera capture, SQLite caching, and background sync over SIM-connected networks for field violation reporting.
+
+`C#` `WinForms` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Vehicle & OCR Modules
+Reusable detection engines powering every traffic system in the stack: OpenVINO-accelerated YOLO for full-frame vehicle detection, TensorFlow/OpenCV for cropped-region plate OCR — CPU-only, no GPU required.
+
+`C#` `C++` `TensorFlow` `OpenCV` `OpenVINO`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚘 Vehicle Classifier Engine
+Custom **ML.NET** model classifying 140+ vehicle types, scaled from 1,000 labeled samples to 59,000 via a self-augmenting, semi-supervised feedback pipeline fed by live production data.
+
+`C#` `ML.NET`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎯 What I Offer
+
+- Full-Stack Web Development (ASP.NET Core & Razor Pages)
+- Cross-Platform Mobile & Desktop Apps (.NET MAUI, WPF, WinForms)
+- Hardware Device Integration (POS, RFID, Cameras, Biometric/Civil ID Readers)
+- Real-Time Computer Vision on Constrained Hardware
+- Deployment Automation & Watchdog Service Design
+- Legacy System Refactoring & Production Documentation
+
+<br/>
+
+## 📊 Stats & Activity
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevimanAI&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevimanAI&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevimanAI&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:512BD4&height=100&section=footer"/>
+
+</div>
