@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:5C2D91&height=200&section=header&text=Hi,%20I'm%20Iman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20AI%20Programmer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:5C2D91&height=200&section=header&text=Hi,%20I'm%20Iman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20%7C%20C%23%20%C2%B7%20MAUI%20%C2%B7%20WPF%20%C2%B7%20ASP.NET%20Core&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://deviman.info"><img src="https://img.shields.io/badge/Portfolio-deviman.info-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/devimanai"><img src="https://img.shields.io/badge/LinkedIn-Iman_Ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,9 +14,9 @@
 
 ## 🧠 About Me
 
-I'm a full-stack **.NET developer and computer vision engineer** with 5+ years of experience building scalable software for real-time image processing, cross-platform mobile apps, and hardware device integrations.
+I'm a **.NET developer** with **6+ years** of experience since 2020, building desktop, mobile and backend software in small teams where I own features end to end, with hands-on CPU-only computer vision and hardware device integration.
 
-I specialize in **WPF, .NET MAUI, and ASP.NET Core**, bridging low-level hardware complexity (cameras, RFID, biometric scanners, POS terminals) with clean architecture and production-ready delivery. My most recent work is migrating a production Iranian license-plate recognition pipeline from YOLOv4 to **YOLO26**, using OpenVINO and ONNX to keep inference fast on CPU-only field hardware. Alongside that I'm building Ayar+, a multilingual MAUI app for jewelry businesses, and Matcha, a Flutter and ASP.NET Core social meetup app.
+I specialize in **WPF, .NET MAUI, and ASP.NET Core**, bridging low-level hardware complexity (cameras, RFID, biometric scanners, POS terminals) with clean architecture and production-ready delivery. Right now I'm the main developer of the **Ayar+** .NET MAUI client for gold and jewelry businesses, and on contract with Tiva I'm upgrading the license-plate and speed-camera pipeline from YOLOv4 to **YOLO26**, using OpenVINO and ONNX to keep inference fast on CPU-only field hardware.
 
 <br/>
 
@@ -113,9 +113,9 @@ Secure vehicle access system handling one-by-one gate passages with sequential b
 <td width="50%" valign="top">
 
 ### 📡 SpeedCam Dispatcher (VSD Package)
-Modular, real-time image processing system for city-wide speed cameras over an offline network. Darknet-based YOLOv4 embedded in **C++** with OpenVINO inference optimization — hit 10 FPS on a 7th-gen Core i5 with zero GPU.
+Modular, real-time image processing system for city-wide speed cameras over an offline network. Darknet-based YOLOv4 embedded in **C++** with OpenVINO inference optimization — hit 10 FPS on a 7th-gen Core i5 with zero GPU. Now being upgraded to **YOLO26** with improved speed estimation.
 
-`C#` `C++` `YOLOv4` `OpenVINO` `Windows Service`
+`C#` `C++` `YOLOv4` `YOLO26` `OpenVINO` `ONNX` `Windows Service`
 
 </td>
 <td width="50%" valign="top">
@@ -131,9 +131,9 @@ Offline-capable **WinForms** tool for patrol vehicles with dual-camera capture, 
 <td width="50%" valign="top">
 
 ### 🔍 Vehicle & OCR Modules
-Reusable detection engines powering every traffic system in the stack: OpenVINO-accelerated YOLO for full-frame vehicle detection, TensorFlow/OpenCV for cropped-region plate OCR — CPU-only, no GPU required.
+Reusable detection engines powering every traffic system in the stack: OpenVINO-accelerated YOLO for full-frame vehicle detection, TensorFlow/OpenCV for cropped-region plate OCR — CPU-only, no GPU required. Migrating to **YOLO26** via ONNX.
 
-`C#` `C++` `TensorFlow` `OpenCV` `OpenVINO`
+`C#` `C++` `YOLO26` `ONNX` `TensorFlow` `OpenCV` `OpenVINO`
 
 </td>
 <td width="50%" valign="top">
@@ -142,6 +142,24 @@ Reusable detection engines powering every traffic system in the stack: OpenVINO-
 Custom **ML.NET** model classifying 140+ vehicle types, scaled from 1,000 labeled samples to 59,000 via a self-augmenting, semi-supervised feedback pipeline fed by live production data.
 
 `C#` `ML.NET`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ TivaTools (WPF Modernization)
+Rewrite of legacy field tools on shared Core libraries with DI: live RTSP detection with semi-supervised YOLO export, a remote updater with encrypted configs, and dual-camera (B&W/RGB) calibration over TCP.
+
+`C#` `WPF` `MVVM` `Emgu.CV` `OpenCV` `RTSP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪪 Ayar+ Card Reader Service
+Windows service and installer that reads Civil ID cards and publishes scans over Ably to the Ayar+ MAUI app for contact and invoice prefill.
+
+`C#` `.NET` `Windows Services` `Ably` `PowerShell`
 
 </td>
 </tr>
